@@ -1,0 +1,51 @@
+* {
+    margin: 2px;
+    padding: 2px;
+}
+
+body{
+    background: rgb(147,206,222);
+}
+
+.container2 {
+    display: flex;
+    width: 600px;
+}
+
+.desc {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 10em;
+    height: auto;
+}
+
+.btn {
+    margin-left: 2px;
+    margin-bottom: 2.2px;
+}
+
+.jumbotron {
+    background: rgb(242,249,254);
+}
+
+.box {
+    height: 100vh;
+}
+
+.box form {
+    display: inline-block;
+}
+
+li {
+    list-style: none;
+}
+
+.abi {
+   display: inline-block;
+}
+
+
+
